@@ -1,1 +1,1 @@
-web: node TogudevBot.exe
+web: TogudevBot.exe
