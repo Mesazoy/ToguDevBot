@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "TogudevBot.exe"
   },
   "engines":{
   	"node": "8.11.2"
