@@ -1,0 +1,22 @@
+{
+  "name": "debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node TogudevBot.exe"
+  },
+  "engines":{
+  	"node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mesazoy/ToguDevBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mesazoy/ToguDevBot/issues"
+  },
+  "homepage": "https://github.com/Mesazoy/ToguDevBot#readme"
+}
